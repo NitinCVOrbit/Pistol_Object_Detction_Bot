@@ -1,6 +1,6 @@
 # 🔫 Pistol Detection Telegram Bot 🎯
 
-Detect pistols in images using a **Telegram Bot** powered by **Faster R-CNN (ResNet-50)**. The bot highlights detected weapons with **bounding boxes** and sends the processed image back to the user.
+Detect pistols in images using a **Telegram Bot**. The bot highlights detected weapons with **bounding boxes** and sends the processed image back to the user.
 
 ---
 
